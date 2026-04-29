@@ -13,9 +13,10 @@ button {
     border-radius: 15px;
     border-color: black;
     width: 98.5%;
-    height: 10%;
+    color: black;
+    height: 20%;
     font-family: funnel display;
-    font-size: 20px;
+    font-size: 40px;
     text-align: left;
 }
 
@@ -47,9 +48,14 @@ td, th {
 
 table {
     border: solid #ffffff;
+    font-size: 40px
 }
 
 .center {
   margin-left: auto;
   margin-right: auto;
+}
+
+body {
+    font-size: 40px
 }
